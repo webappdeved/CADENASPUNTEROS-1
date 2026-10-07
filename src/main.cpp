@@ -23,7 +23,7 @@ int main() {
     // Modifiquen la salida agregando su Nombre y Apellido reales.
     // ====================================================================
     cout << "=====================================================" << endl;
-    cout << "   CONTROL DE ACCESO RAM - ESTUDIANTE: Alma Lazarteg++ src/main.cpp -o src/cadenaspunteros.exe" << endl;
+    cout << "   CONTROL DE ACCESO RAM - ESTUDIANTE: Alma Lazarte" << endl;
     cout << "=====================================================" << endl;
 
     cout << "=> Ingrese su edad: ";
